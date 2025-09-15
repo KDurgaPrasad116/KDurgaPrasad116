@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm K Durga Prasad 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&font=Press+Start+2P&color=4C3BCF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Lover" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&font=Press+Start+2P&color=4C3BCF&center=true&vCenter=true&width=500&lines=Web+Developer;AI+Enthusiast;Open+Source+Lover" alt="Typing Animation" />
 </div>
 
 **A CSE(AI/ML) Engineering Student ||  Passionate learner || Explorer**  
@@ -9,14 +9,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🔥+Welcome+to+My+Profile!+🔥&fontSize=36&animation=twinkling&fontColor=fff" />
 </h2>
 
-📧 **Email Me:** kdurgaprasad1165@example.com for collaboration, projects, or just to connect! 😊  
+📧 **Email Me:** kdurgaprasad1165@gmail.com for collaboration, projects, or just to connect! 😊  
 
 - 🔭 **Currently Working On:** Dsa and Python mini Projects 
 - 🌱 **Currently Learning:** Artificial Intelligence And Machine Learning 
 - 👯 **Looking to Collaborate On:** AI / ML projects , Development Projects , Algorithms
 - 🤔 **Looking for Help With:** Building scalable cloud-native infrastructure and DevOps pipelines  
 - 💬 **Ask Me About:** Full-Stack , Python , DSA 
-- 📫 **How to Reach Me:** [kdurgaprasad1165@example.com]  
+- 📫 **How to Reach Me:** [kdurgaprasad1165@gmail.com]  
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I believe technology isn’t just a tool, it’s an art form I love mastering 🚀  
 
