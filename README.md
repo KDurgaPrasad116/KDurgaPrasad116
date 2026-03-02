@@ -16,7 +16,7 @@
 - 👯 **Looking to Collaborate On:** AI / ML projects , Development Projects , Algorithms
 - 🤔 **Looking for Help With:** Building scalable cloud-native infrastructure and DevOps pipelines  
 - 💬 **Ask Me About:** Full-Stack , Python , DSA 
-- 📫 **How to Reach Me:** [kdurgaprasad1165@gmail.com]  
+- 📫 **How to Reach Me:** [k.durgaprasad1165@gmail.com]  
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I believe technology isn’t just a tool, it’s an art form I love mastering 🚀  
 
