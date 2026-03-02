@@ -9,7 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🔥+Welcome+to+My+Profile!+🔥&fontSize=36&animation=twinkling&fontColor=fff" />
 </h2>
 
-📧 **Email Me:** kdurgaprasad1165@gmail.com for collaboration, projects, or just to connect! 😊  
+📧 **Email Me:** k.durgaprasad1165@gmail.com for collaboration, projects, or just to connect! 😊  
 
 - 🔭 **Currently Working On:** Dsa and Python mini Projects 
 - 🌱 **Currently Learning:** Artificial Intelligence And Machine Learning 
