@@ -20,9 +20,6 @@
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I believe technology isn’t just a tool, it’s an art form I love mastering 🚀  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KDurgaPrasad116&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdurgaprasad1165@gmail.com),[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kdurgaprasad116/)
       
