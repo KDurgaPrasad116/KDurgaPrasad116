@@ -23,6 +23,9 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdurgaprasad1165@gmail.com),[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kdurgaprasad116/)
 
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kdurgaprasad116&theme=dark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kdurgaprasad116&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kdurgaprasad116&theme=dark&hide_border=false)<br/>
